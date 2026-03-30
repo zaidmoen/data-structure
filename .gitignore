@@ -1,0 +1,19 @@
+# IDE and editor settings
+.vs/
+.vscode/
+
+# Build artifacts
+build/
+bin/
+out/
+Debug/
+Release/
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
